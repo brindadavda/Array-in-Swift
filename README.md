@@ -1,7 +1,5 @@
 ### Array Methods and Properties in Swift
 
-For a comprehensive review of array methods and properties in Swift, [click here](https://example.com/your-link).
-
 #### Creating and Initializing Arrays
 - `Array<Element>()` - Creates an empty array.
 - `Array(repeating: Element, count: Int)` - Creates an array with a repeated value.
